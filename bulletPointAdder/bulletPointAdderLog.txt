@@ -1,0 +1,12 @@
+2019-10-04 23:36:07,585 - INFO - Program started
+2019-10-04 23:36:07,593 - DEBUG - Text on the clipboard: 
+'* * * In The Sims 4, the flower is an ingredient in making ambrosia,[TS4] which can resurrect ghosts. Even having just the seed can have a similar effect but seeing as most often they are unknown special seeds, Sims are better off growing the plant. The death flower also works for Sims who die of old age, and they will live another two days before dying again. Unlike The Sims 3, dead Sims cannot use the flower to revive themselves; instead, another Sim has to have the flower to give to the Grim Reaper when a Sim dies.'
+2019-10-04 23:36:07,593 - INFO - Program ended
+2019-10-04 23:39:58,579 - INFO - Program started
+2019-10-04 23:39:58,588 - DEBUG - Text on the clipboard: 
+'* The death flower cannot be directly used, cannot be sold for money, and cannot be duplicated using an Omni plant. However, it is incredibly valuable. The Grim Reaper has a particular fondness for these flowers, and this can be used to a Sim's advantage.
+* 
+* Should a Sim perish by any particular reason, the Grim Reaper will come and try to take the Sim's soul, but the Sim in question will offer him the flower, and the Grim Reaper will gladly take the flower and bring the Sim back to life with slightly raised Motives, to give the Sim the chance to quickly fix the motive that resulted in their undone demise (the Sim will have their fun need empty and get the "Stressed Out" moodlet immediately).
+* 
+* If a Sim with Unlucky or the Loser trait dies of unnatural causes with the death flower in their inventory, the flower will not be used up, and the Grim Reaper will revive the Sim with a message saying how he's enjoying the Sim's misery.'
+2019-10-04 23:39:58,589 - INFO - Program ended

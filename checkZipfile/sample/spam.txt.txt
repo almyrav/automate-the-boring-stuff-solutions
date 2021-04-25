@@ -1,0 +1,17 @@
+2019-10-04 20:40:09,231 - INFO - Exit program
+2019-10-04 21:38:05,955 - DEBUG - 2
+2019-10-04 21:38:05,955 - DEBUG - 3
+2019-10-04 21:38:05,956 - DEBUG - 4
+2019-10-04 21:38:05,960 - DEBUG - Adding files in sample...
+2019-10-04 21:38:08,143 - INFO - Exit program
+2019-10-04 21:40:12,024 - DEBUG - 2
+2019-10-04 21:40:12,025 - DEBUG - 3
+2019-10-04 21:40:12,025 - DEBUG - 4
+2019-10-04 21:40:12,025 - DEBUG - 5
+2019-10-04 21:40:12,029 - DEBUG - Adding files in sample...
+2019-10-04 21:40:14,537 - INFO - Exit program
+2019-10-04 21:40:53,832 - DEBUG - Adding files in backupToZip...
+2019-10-04 21:40:53,838 - DEBUG - Adding files in backupToZip\sample...
+2019-10-04 21:40:53,839 - DEBUG - Adding files in backupToZip\sample2...
+2019-10-04 21:40:53,840 - DEBUG - folderInput: 'backupToZip' currentDirName: backupToZip
+2019-10-04 21:40:55,836 - INFO - Exit program
